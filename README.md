@@ -8,12 +8,6 @@ O primeiro passo foi estabelecer uma conexão com a API Pokémon através de req
 
 ![Captura de tela 2024-04-13 145450](https://github.com/Josue185/pokedex/assets/92592495/4d9a8add-dd22-4c9f-ade1-1d76dc076500)
 
-![Captura de tela 2024-03-29 153528](https://github.com/Josue185/pokedex/assets/92592495/f821ec19-97da-4950-8bbf-30bd727baca9)
-
-![Captura de tela 2024-03-29 153506](https://github.com/Josue185/pokedex/assets/92592495/ade7512e-4628-4d2f-9652-135cfdbe9bed)
-
-
-
 Com os dados em mãos, procedi com a etapa de limpeza e transformação dos dados, utilizando a biblioteca pandas para manipular as estruturas de dados e preparar um conjunto limpo para análise. O critério foi identificar e isolar os cinco Pokémon com os maiores índices de ataque de cada tipo, garantindo uma análise focada na capacidade ofensiva.
 
 Visualização e Análise no Power BI
